@@ -13,3 +13,12 @@
   list-style-type: none;
   width: 800px;
 }
+.search-input-container {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+.search-icon {
+  height: 20px;
+  width: 20px;
+}
